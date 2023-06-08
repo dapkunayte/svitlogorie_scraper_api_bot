@@ -1,3 +1,6 @@
+"""
+Бот
+"""
 from telebot.async_telebot import AsyncTeleBot
 from telebot.async_telebot import types
 import re

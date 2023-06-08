@@ -1,5 +1,5 @@
 """
-Синхронный парсер
+API
 """
 import uvicorn
 from fastapi import FastAPI
