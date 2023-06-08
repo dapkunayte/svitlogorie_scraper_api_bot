@@ -1,0 +1,2484 @@
+[
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с ванилью в молочном шоколаде",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "26%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "8,2 г",
+            "fats": "28,1 г",
+            "carbs": "31,6 г",
+            "calories": "1716 кДж (412 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#0"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с варёной сгущёнкой в молочном шоколаде",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "8,4 г",
+            "fats": "25,7 г",
+            "carbs": "33,3 г",
+            "calories": "1660 кДж (398 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#1"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с кокосом в молочном шоколаде",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "9,5 г",
+            "fats": "25,7 г",
+            "carbs": "31,2 г",
+            "calories": "1598 кДж (394 ккал)"
+        },
+        "composition": "Состав: ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#2"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье \"Золотая ириска\" творожный глазированный в молочном шоколаде",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "8,7 г",
+            "fats": "25,7 г",
+            "carbs": "31 г",
+            "calories": "1626 кДж (390 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#3"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с твердым сыром «Палермо» в молочном шоколаде",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "9,8 г",
+            "fats": "25,6 г",
+            "carbs": "31,4 г",
+            "calories": "1648 кДж (395 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#4"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с  твёрдым сыром «Palermo», с вялеными помидорами и базиликом в молочном шоколаде",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "10,8 г",
+            "fats": "25,7 г",
+            "carbs": "32,0 г",
+            "calories": "1678,0 кДж (402,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#5"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с твёрдым сыром «Palermo» и смесью пряностей «прованские травы» в молочном шоколаде",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "10,9 г",
+            "fats": "25,7 г",
+            "carbs": "31,3 г",
+            "calories": "1668,0 кДж (400,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#6"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с  твёрдым сыром «Palermo» и мятой в молочном шоколаде",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "11,0 г",
+            "fats": "25,7 г",
+            "carbs": "31,2 г",
+            "calories": "1668,0 кДж (400,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#7"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с твёрдым сыром «Palermo», с инжиром в молочном шоколаде",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/флоупак",
+            "protein": "10,7 г",
+            "fats": "25,6 г",
+            "carbs": "28,0 г",
+            "calories": "1605,0 кДж (385,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#8"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный «Ирис и арахис»",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,7 г",
+            "fats": "22,9 г",
+            "carbs": "41,8 г",
+            "calories": "1689,0 кДж (404,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#9"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с вареной сгущенкой «Ирис и арахис»",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,9 г",
+            "fats": "20,8 г",
+            "carbs": "43,3 г",
+            "calories": "1640 кДж (392 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#10"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный Золотая ириска «Ирис и арахис»",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,7 г",
+            "fats": "23,3 г",
+            "carbs": "41,2 г",
+            "calories": "1693 кДж (405 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#11"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с ванилью и печеньем",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,9 г",
+            "fats": "24,2 г",
+            "carbs": "38,5 г",
+            "calories": "1684 кДж (403 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#12"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с варёной сгущенкой и печеньем",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 дней",
+            "pack": "Флоу-пак",
+            "protein": "8,4 г",
+            "fats": "21,8 г",
+            "carbs": "40 г",
+            "calories": "1629 кДж (390 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#13"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с наполнителем \"Золотая ириска\" и печеньем",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 дней",
+            "pack": "Флоу-пак",
+            "protein": "7,9 г",
+            "fats": "24,7 г",
+            "carbs": "37,8 г",
+            "calories": "1691 кДж (405 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#14"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с ванилью и печеньем в белой глазури",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/365 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,9 г",
+            "fats": "24,6 г",
+            "carbs": "38,9 г",
+            "calories": "1706,0 кДж (409,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#15"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок Свитлогорье творожный глазированный с ванилью \"Легкий и вкусный\" 16% 3 шт",
+        "product_description": {
+            "weight": "3x45 г",
+            "fat_content": "16%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/фольга",
+            "protein": "9,0 г",
+            "fats": "19,2 г",
+            "carbs": "32,1 г",
+            "calories": "1409 кДж (337 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#16"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырки Свитлогорье творожные глазированные \"Золотая ириска\" 16% 3 шт",
+        "product_description": {
+            "weight": "3x45 г",
+            "fat_content": "16%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Коробочка/фольга",
+            "protein": "8,3 г",
+            "fats": "19,8 г",
+            "carbs": "32,2 г",
+            "calories": "1421,1  кДж (340 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#17"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с ванилью 26%",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "26%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "7,7 г",
+            "fats": "27,6 г",
+            "carbs": "32,0 г",
+            "calories": "1696 кДж (407 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#18"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с ванилью 16%",
+        "product_description": {
+            "weight": "45 г",
+            "fat_content": "16%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": 0,
+            "fats": 0,
+            "carbs": 0,
+            "calories": 0
+        },
+        "composition": "N\\A",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#19"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с варёной сгущёнкой 26%",
+        "product_description": {
+            "weight": "45 г",
+            "fat_content": "26%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "8,8 г",
+            "fats": "25,0 г",
+            "carbs": "33,5 г",
+            "calories": "1644 кДж (394 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#20"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный в карамельной глазури \"Золотая ириска\"",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "25%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "7,2 г",
+            "fats": "25,2 г",
+            "carbs": "32,6 г",
+            "calories": "1609 кДж (386 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#21"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный с ванилью в карамельной глазури 23%",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "8,3 г",
+            "fats": "25,3 г",
+            "carbs": "32 г",
+            "calories": "1621 кДж (389 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#22"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный с какао 26%",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "26%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "8,3 г",
+            "fats": "27,7 г",
+            "carbs": "32,1 г",
+            "calories": "1712 кДж (411 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#23"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный с натуральным апельсином в апельсиновой глазури 23%",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "7,8 г",
+            "fats": "25,6 г",
+            "carbs": "30,2 г",
+            "calories": "1593 кДж (382 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#24"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный с натуральной клубникой в клубничной глазури 23%",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "9,1 г",
+            "fats": "25,3 г",
+            "carbs": "32,0 г",
+            "calories": "1604 кДж (385 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#25"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный с кокосом в белой глазури 23%",
+        "product_description": {
+            "weight": "45 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "8,9 г",
+            "fats": "25,3 г",
+            "carbs": "31,5 г",
+            "calories": "1623 кДж (389 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#26"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный с кокосом в карамельной глазури 23%",
+        "product_description": {
+            "weight": "45 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "8,9 г",
+            "fats": "25,4 г",
+            "carbs": "31,4 г",
+            "calories": "1625 кДж (390 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#27"
+    },
+    {
+        "category": "Творожные сырки",
+        "name": "Сырок творожный глазированный «Картошка»",
+        "product_description": {
+            "weight": "50 г",
+            "fat_content": "15%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Фольга",
+            "protein": "9,4 г",
+            "fats": "18,6 г",
+            "carbs": "34,5 г",
+            "calories": "1431 кДж (342 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-syrki/#28"
+    },
+    {
+        "category": "Творожные палочки",
+        "name": "Творожные палочки глазированные 23%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,6 г",
+            "fats": "26,6 г",
+            "carbs": "36,0 г",
+            "calories": "1725 кДж (414 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-palochki/#0"
+    },
+    {
+        "category": "Творожные палочки",
+        "name": "Творожные палочки в карамельной глазури 23%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,7 г",
+            "fats": "27,2 г",
+            "carbs": "35,9 г",
+            "calories": "1748 кДж (419 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-palochki/#1"
+    },
+    {
+        "category": "Творожные палочки",
+        "name": "Сырки творожные \"Золотая ириска\" 23%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6/-18°C",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,5 г",
+            "fats": "26,4 г",
+            "carbs": "32,2 г",
+            "calories": "1669 кДж (400 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorozhnye-palochki/#2"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Сырок творожный с ванилью 16,5%",
+        "product_description": {
+            "weight": "90 г",
+            "fat_content": "16,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "10,8 г",
+            "fats": "16,5 г",
+            "carbs": "21,6 г",
+            "calories": "1161 кДж (278 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#0"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Масса творожная с ванилью 14%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "14%",
+            "storage_conditions": "+2~+6 /-18⁰С",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "11,3 г",
+            "fats": "14,0 г",
+            "carbs": "21,7 г",
+            "calories": "1079,0 кДж (258,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#1"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Масса творожная с ванилью 23%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "9,2 г",
+            "fats": "23,0 г",
+            "carbs": "20,3 г",
+            "calories": "1353 кДж (300 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#2"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Масса творожная с изюмом 23%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "23%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "8,6 г",
+            "fats": "20,8 г",
+            "carbs": "26,2 г",
+            "calories": "1361 кДж (326 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#3"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Масса творожная с изюмом 14%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "14%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "10,4 г",
+            "fats": "13,0 г",
+            "carbs": "26,5 г",
+            "calories": "1108,0 кДж (265,0 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#4"
+    },
+    {
+        "category": "Масса творожная",
+        "name": "Сырок творожный с изюмом 16,5%",
+        "product_description": {
+            "weight": "90 г",
+            "fat_content": "16,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "30/180 суток",
+            "pack": "Флоу-пак",
+            "protein": "10,0 г",
+            "fats": "15,0 г",
+            "carbs": "27,4 г",
+            "calories": "1191 кДж (285 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/massa-trorojnaja/#5"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог 0,5%",
+        "product_description": {
+            "weight": "200/400 г",
+            "fat_content": "0,5%",
+            "storage_conditions": "+2/+6",
+            "expiry": "30 суток",
+            "pack": "Стабило бэг",
+            "protein": "13,0 г",
+            "fats": "0,5 г",
+            "carbs": "3,1 г",
+            "calories": "290 кДж (70 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/tvorog/#0"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог 9%",
+        "product_description": {
+            "weight": "200/400 г",
+            "fat_content": "9%",
+            "storage_conditions": "+2/+6",
+            "expiry": "30 суток",
+            "pack": "Стабило бэг",
+            "protein": "12,0 г",
+            "fats": "9,0 г",
+            "carbs": "3,0 г",
+            "calories": "590 кДж (140 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/tvorog/#1"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог 2%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "2%",
+            "storage_conditions": "+2/+6",
+            "expiry": "21 сутки",
+            "pack": "Флоу-пак",
+            "protein": "18,0 г",
+            "fats": "2,0 г",
+            "carbs": "3,3 г",
+            "calories": "436 кДж (103 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/tvorog/#2"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог 5 %",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "5%",
+            "storage_conditions": "+2/+6",
+            "expiry": "21 сутки",
+            "pack": "Флоу-пак",
+            "protein": "16,0 г",
+            "fats": "5,0 г",
+            "carbs": "3,0 г",
+            "calories": "507 кДж  (121 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/tvorog/#3"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог 9%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "9%",
+            "storage_conditions": "+2/+6",
+            "expiry": "21 сутки",
+            "pack": "Флоу-пак",
+            "protein": "16,0 г",
+            "fats": "9,0 г",
+            "carbs": "3,0 г",
+            "calories": "657 кДж (157 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/tvorog/#4"
+    },
+    {
+        "category": "Творог",
+        "name": "Творог мягкий 4%",
+        "product_description": {
+            "weight": "400 г",
+            "fat_content": "4%",
+            "storage_conditions": "+2/+6",
+            "expiry": "21 сутки",
+            "pack": "П/ЭТ",
+            "protein": "8,5 г",
+            "fats": "4,0 г",
+            "carbs": "1,3 г",
+            "calories": "310 кДж (75 ккал)"
+        },
+        "composition": "Творог ",
+        "link": "https://svitlogorie.ru/product/tvorog/#5"
+    },
+    {
+        "category": "Растительное молоко",
+        "name": "Напиток ореховый «Кешью Миндаль» 1 л",
+        "product_description": {
+            "weight": "1 л",
+            "fat_content": "1,4%",
+            "storage_conditions": "+2/+25⁰С ",
+            "expiry": "12 месяцев",
+            "pack": "Пюр-пак",
+            "protein": "0,6 г",
+            "fats": "1,4 г",
+            "carbs": "3,8 г",
+            "calories": "125 кДж (30 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/rastitelnoe-moloko/#0"
+    },
+    {
+        "category": "Растительное молоко",
+        "name": "Напиток ореховый «Кешью Кокос» 1 л",
+        "product_description": {
+            "weight": "1 л",
+            "fat_content": "1,9%",
+            "storage_conditions": "+2/+25⁰С ",
+            "expiry": "12 месяцев",
+            "pack": "Пюр-пак",
+            "protein": "0.4 г",
+            "fats": "1,9 г",
+            "carbs": "3,8 г",
+            "calories": "143 кДж (34 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/rastitelnoe-moloko/#1"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Трубочки для молока Свитлогорье \"Утренний микс\" (малина, дыня, клубника, ежевика, банан)",
+        "product_description": {
+            "weight": "",
+            "fat_content": "",
+            "storage_conditions": "0/+25 ⁰С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "96.75 г",
+            "calories": "1564,30 кДж (373,70 ккал)"
+        },
+        "composition": "Cахар, ",
+        "link": "https://svitlogorie.ru/product/moloko/#0"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Трубочки для молока Свитлогорье \"Сливочный микс\" (клубника/сливки, шоколад/сливки, персик/сливки, дыня/сливки, ежевика/сливки)",
+        "product_description": {
+            "weight": "",
+            "fat_content": "",
+            "storage_conditions": "0/+25 ⁰С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "96.75 u",
+            "calories": "1564,30 кДж (373,70 ккал)"
+        },
+        "composition": "Cахар, ",
+        "link": "https://svitlogorie.ru/product/moloko/#1"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Трубочки для молока Свитлогорье \"Вечерний микс\" (карамель, лесные ягоды, апельсин, персик, тропик)",
+        "product_description": {
+            "weight": "",
+            "fat_content": "",
+            "storage_conditions": "0/+25 ⁰С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "96,75 г",
+            "calories": "1564,30 кДж (373,70 ккал)"
+        },
+        "composition": "Сахар, ",
+        "link": "https://svitlogorie.ru/product/moloko/#2"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Молоко Свитлогорье топленое 2,5%",
+        "product_description": {
+            "weight": "900 мл",
+            "fat_content": "2,5%",
+            "storage_conditions": "+2/+6ºС",
+            "expiry": "18 суток",
+            "pack": "ПЭТ",
+            "protein": "3,0 г",
+            "fats": "2,5 г",
+            "carbs": "4,7 г",
+            "calories": "223,0 кДж (53,0 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/moloko/#3"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Молоко питьевое ультрапастеризованное 2,5%",
+        "product_description": {
+            "weight": "930 мл",
+            "fat_content": "2,5%",
+            "storage_conditions": "+2/+6",
+            "expiry": "20 суток",
+            "pack": "ПЭТ",
+            "protein": "3,1 г",
+            "fats": "2,5 г",
+            "carbs": "4,7 г",
+            "calories": "230 кДж (55 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/moloko/#4"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Молоко питьевое ультрапастеризованное 3,2%",
+        "product_description": {
+            "weight": "930 мл",
+            "fat_content": "3,2%",
+            "storage_conditions": "+2/+6",
+            "expiry": "20 суток",
+            "pack": "ПЭТ",
+            "protein": "3,1 г",
+            "fats": "3,2 г",
+            "carbs": "4,7 г",
+            "calories": "250 кДж (60 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/moloko/#5"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Молоко питьевое ультрапастеризованное 3,2%",
+        "product_description": {
+            "weight": "1000 мл",
+            "fat_content": "3,2%",
+            "storage_conditions": "0/+25 ⁰С",
+            "expiry": "9 месяцев",
+            "pack": "TBA square",
+            "protein": "3,0 г",
+            "fats": "3,2 г",
+            "carbs": "4,7 г",
+            "calories": "249 кДж (60 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/moloko/#6"
+    },
+    {
+        "category": "Молоко и трубочки для молока",
+        "name": "Молоко питьевое ультрапастеризованное 2,5%",
+        "product_description": {
+            "weight": "1000 мл",
+            "fat_content": "2,5%",
+            "storage_conditions": "0/+25 ⁰С",
+            "expiry": "9 месяцев",
+            "pack": "TBA square",
+            "protein": "3,2 г",
+            "fats": "2.5 г",
+            "carbs": "4,7 г",
+            "calories": "227 кДж (54 ккал)"
+        },
+        "composition": "Нормализованное ",
+        "link": "https://svitlogorie.ru/product/moloko/#7"
+    },
+    {
+        "category": "Кефир",
+        "name": "Кефир 3.2%",
+        "product_description": {
+            "weight": "930 мл",
+            "fat_content": "3,2%",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "15 суток",
+            "pack": "ПЭТ",
+            "protein": "3,1 г",
+            "fats": "3,2 г",
+            "carbs": "4,0 г",
+            "calories": "240 кДж (55 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/kefir/#0"
+    },
+    {
+        "category": "Сливки",
+        "name": "Сливки питьевые ультрапастеризованные 10%",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "10%",
+            "storage_conditions": "+2/+25",
+            "expiry": "9 месяцев",
+            "pack": "TBA square",
+            "protein": "2,6 г",
+            "fats": "10,0 г",
+            "carbs": "4,0 г",
+            "calories": "480кДж (120 ккал)"
+        },
+        "composition": "Сливки ",
+        "link": "https://svitlogorie.ru/product/slivki/#0"
+    },
+    {
+        "category": "Сливки",
+        "name": "Сливки питьевые ультрапастеризованные 20%",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "20%",
+            "storage_conditions": "+2/+25",
+            "expiry": "9 месяцев",
+            "pack": "TBA square",
+            "protein": "2,5 г",
+            "fats": "20,0 г",
+            "carbs": "3,7 г",
+            "calories": "860 кДж (200 ккал)"
+        },
+        "composition": "Сливки ",
+        "link": "https://svitlogorie.ru/product/slivki/#1"
+    },
+    {
+        "category": "Сливки",
+        "name": "Сливки питьевые ультрапастеризованные 33%",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "33%",
+            "storage_conditions": "+2/+6",
+            "expiry": "9 месяцев",
+            "pack": "TBA square",
+            "protein": "2,2 г",
+            "fats": "33,0 г",
+            "carbs": "3,0 г",
+            "calories": "1330 кДж (320 ккал)"
+        },
+        "composition": "Сливки ",
+        "link": "https://svitlogorie.ru/product/slivki/#2"
+    },
+    {
+        "category": "Сметана и соусы",
+        "name": "Сметана 15%",
+        "product_description": {
+            "weight": "200 г",
+            "fat_content": "15%",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "30 суток",
+            "pack": "п/ст",
+            "protein": "2,6 г",
+            "fats": "15,0 г",
+            "carbs": "2,9 г",
+            "calories": "650 кДж (160 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/smetana/#0"
+    },
+    {
+        "category": "Сметана и соусы",
+        "name": "Сметана 20%",
+        "product_description": {
+            "weight": "200 г",
+            "fat_content": "20%",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "30 суток",
+            "pack": "п/ст",
+            "protein": "2,5 г",
+            "fats": "20,0 г",
+            "carbs": "2,9 г",
+            "calories": "830 кДж (200 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/smetana/#1"
+    },
+    {
+        "category": "Сметана и соусы",
+        "name": "Сметана 15%",
+        "product_description": {
+            "weight": "380 г",
+            "fat_content": "15%",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "30 суток",
+            "pack": "п/ст",
+            "protein": "2,6 г",
+            "fats": "15,0 г",
+            "carbs": "2,9 г",
+            "calories": "650 кДж (160 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/smetana/#2"
+    },
+    {
+        "category": "Сметана и соусы",
+        "name": "Сметана 20%",
+        "product_description": {
+            "weight": "380 г",
+            "fat_content": "20%",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "30 суток",
+            "pack": "п/ст",
+            "protein": "2,5 г",
+            "fats": "20,0 г",
+            "carbs": "2,9 г",
+            "calories": "830 кДж (200 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/smetana/#3"
+    },
+    {
+        "category": "Сметана и соусы",
+        "name": "Горчица «Русская»",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "0/+18⁰С",
+            "expiry": "180 суток",
+            "pack": "Туба",
+            "protein": "9,0 г",
+            "fats": "11,0 г",
+            "carbs": "20,0 г",
+            "calories": "900 кДж (220 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/smetana/#4"
+    },
+    {
+        "category": "Сливочное масло",
+        "name": "Масло сладкосливочное несолёное «Крестьянское» 72,5%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "72,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "90/180 суток",
+            "pack": "Фольга",
+            "protein": "0,8 г",
+            "fats": "72,5 г",
+            "carbs": "1,3 г",
+            "calories": "2718 кДж (661 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/slivochnoe-maslo/#0"
+    },
+    {
+        "category": "Сливочное масло",
+        "name": "Масло сладкосливочное несолёное 82,5%",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "82,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "90/180 суток",
+            "pack": "Фольга",
+            "protein": "0,5 г",
+            "fats": "82,5 г",
+            "carbs": "0,8 г",
+            "calories": "3075 кДж (748 ккал)"
+        },
+        "composition": "Пастеризованные ",
+        "link": "https://svitlogorie.ru/product/slivochnoe-maslo/#1"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый Palermo 6 месяцев",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+6 ⁰С",
+            "expiry": "180 суток",
+            "pack": "Плёнка",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#0"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый Palermo 12 месяцев",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+6 ⁰С",
+            "expiry": "180 суток",
+            "pack": "Плёнка",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#1"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр Свитлогорье “Моцарелла”",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+4 ⁰С",
+            "expiry": "90 суток",
+            "pack": "Плёнка",
+            "protein": "25,0 г",
+            "fats": "19,0 г",
+            "carbs": 0,
+            "calories": "1128 кДж (271 ккал)"
+        },
+        "composition": "Полуфабрикат ",
+        "link": "https://svitlogorie.ru/product/syry/#2"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый Parme",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "48%",
+            "storage_conditions": "0/+6 ⁰С",
+            "expiry": "6 месяцев",
+            "pack": "Плёнка",
+            "protein": "26,3 г",
+            "fats": "29,0 г",
+            "carbs": 0,
+            "calories": "1520 кДж (366 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#3"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый Parme",
+        "product_description": {
+            "weight": "1 кг",
+            "fat_content": "48%",
+            "storage_conditions": "0/+6 ⁰С",
+            "expiry": "6 месяцев",
+            "pack": "Плёнка",
+            "protein": "26,3 г",
+            "fats": "29,0 г",
+            "carbs": 0,
+            "calories": "1520 кДж (366 ккал)"
+        },
+        "composition": "молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#4"
+    },
+    {
+        "category": "Сыры",
+        "name": "Cыр твёрдый Parme",
+        "product_description": {
+            "weight": "180 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+6 ⁰С",
+            "expiry": "6 месяцев",
+            "pack": "Высокобарьерная плёнка",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#5"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый \"Palermo\" (\"Палермо\") тертый",
+        "product_description": {
+            "weight": "120 г",
+            "fat_content": "40,0%",
+            "storage_conditions": "+2/+6 ⁰С",
+            "expiry": "90 суток",
+            "pack": "Пакет с пр/гр",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#6"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый \"Palermo\" (\"Палермо\") слайсы",
+        "product_description": {
+            "weight": "120 г",
+            "fat_content": "40,0%",
+            "storage_conditions": "+2/+6 ⁰С",
+            "expiry": "90 суток",
+            "pack": "Пакет с пр/гр",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#7"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр твердый \"Palermo\" (\"Палермо\") колотый",
+        "product_description": {
+            "weight": "120 г",
+            "fat_content": "40,0%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Пакет с пр/гр",
+            "protein": "27,7 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1360 кДж (327 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#8"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр \"МОЦАРЕЛЛА\"",
+        "product_description": {
+            "weight": "125 г",
+            "fat_content": "40,0%",
+            "storage_conditions": "0/+4",
+            "expiry": "90 суток",
+            "pack": "Плёнка",
+            "protein": "25,0 г",
+            "fats": "19,0 г",
+            "carbs": 0,
+            "calories": "1128 кДж (271 ккал)"
+        },
+        "composition": "Полуфабрикат ",
+        "link": "https://svitlogorie.ru/product/syry/#9"
+    },
+    {
+        "category": "Сыры",
+        "name": "Комбинированный рассольный продукт",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "55%",
+            "storage_conditions": "+2/+6",
+            "expiry": "12 месяцев",
+            "pack": "TBA",
+            "protein": "8,0 г",
+            "fats": "22,0 г",
+            "carbs": "3,2 г",
+            "calories": "1004 кДж (243 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#10"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Фету»",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Контейнер",
+            "protein": "12,4 г",
+            "fats": "17,1 г",
+            "carbs": 0,
+            "calories": "840 кДж (200 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#11"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Фету» кинза-чеснок",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Контейнер",
+            "protein": "12,4 г",
+            "fats": "17,1 г",
+            "carbs": 0,
+            "calories": "840 кДж (200 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#12"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Тильзитер»",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Флоу-пак",
+            "protein": "23,0 г",
+            "fats": "25,0 г",
+            "carbs": 0,
+            "calories": "1323 кДж (316 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#13"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Российский»",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "50%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Флоу-пак",
+            "protein": "22,5 г",
+            "fats": "27,0 г",
+            "carbs": 0,
+            "calories": "1382 кДж (333 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#14"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Гауда»",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "90 суток",
+            "pack": "Флоу-пак",
+            "protein": "23,0 г",
+            "fats": "25,0 г",
+            "carbs": 0,
+            "calories": "1323 кДж (316 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#15"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Гауда» нарезка",
+        "product_description": {
+            "weight": "150 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "120 суток",
+            "pack": "Флоу-пак",
+            "protein": "25,0 г",
+            "fats": "24,0 г",
+            "carbs": 0,
+            "calories": "1310 кДж (320 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#16"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Российский» нарезка",
+        "product_description": {
+            "weight": "150 г",
+            "fat_content": "50%",
+            "storage_conditions": "+2/+6",
+            "expiry": "120 суток",
+            "pack": "Флоу-пак",
+            "protein": "22,5 г",
+            "fats": "27,0 г",
+            "carbs": 0,
+            "calories": "1382 кДж (333 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#17"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Тильзитер» нарезка",
+        "product_description": {
+            "weight": "150 г",
+            "fat_content": "45%",
+            "storage_conditions": "+2/+6",
+            "expiry": "120 суток",
+            "pack": "Флоу-пак",
+            "protein": "23,0 г",
+            "fats": "25,0 г",
+            "carbs": 0,
+            "calories": "1323 кДж (316 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#18"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Косичка» копчёный",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+6",
+            "expiry": "80 суток",
+            "pack": "Вакуум",
+            "protein": "22,6 г",
+            "fats": "23,0 г",
+            "carbs": 0,
+            "calories": "1235 кДж (297 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#19"
+    },
+    {
+        "category": "Сыры",
+        "name": "Сыр «Охотничий» копчёный",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "40%",
+            "storage_conditions": "0/+6",
+            "expiry": "80 суток",
+            "pack": "Вакуум",
+            "protein": "22,6 г",
+            "fats": "23,0 г",
+            "carbs": 0,
+            "calories": "1243 кДж (297 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/syry/#20"
+    },
+    {
+        "category": "Сгущенное молоко",
+        "name": "Молоко цельное сгущенное с сахаром",
+        "product_description": {
+            "weight": "250 г",
+            "fat_content": "8,5%",
+            "storage_conditions": "0/+10⁰С",
+            "expiry": "12 месяцев",
+            "pack": "Дой-пак",
+            "protein": "7,2 г",
+            "fats": "8,5 г",
+            "carbs": "56,0 г",
+            "calories": "1390 кДж (330 ккал)"
+        },
+        "composition": "Нормализованное ",
+        "link": "https://svitlogorie.ru/product/sgushhennoe-moloko/#0"
+    },
+    {
+        "category": "Сгущенное молоко",
+        "name": "Молоко цельное сгущенное с сахаром",
+        "product_description": {
+            "weight": "380 г",
+            "fat_content": "8,5%",
+            "storage_conditions": "0/+25",
+            "expiry": "18 месяцев",
+            "pack": "Ж/б",
+            "protein": "7,2 г",
+            "fats": "8,5 г",
+            "carbs": "56,0 г",
+            "calories": "1390 кДж (330 ккал)"
+        },
+        "composition": "Нормализованное ",
+        "link": "https://svitlogorie.ru/product/sgushhennoe-moloko/#1"
+    },
+    {
+        "category": "Сгущенное молоко",
+        "name": "Молоко сгущенное вареное с сахаром «Лакомка»",
+        "product_description": {
+            "weight": "380 г",
+            "fat_content": "8,5%",
+            "storage_conditions": "0/+10",
+            "expiry": "10 месяцев",
+            "pack": "Ж/б",
+            "protein": "6,4 г",
+            "fats": "8,5 г",
+            "carbs": "54,5 г",
+            "calories": "1350 кДж (320 ккал)"
+        },
+        "composition": "Нормализованное ",
+        "link": "https://svitlogorie.ru/product/sgushhennoe-moloko/#2"
+    },
+    {
+        "category": "Трубочки, орешки и суфле",
+        "name": "Орешки с варёной сгущёнкой",
+        "product_description": {
+            "weight": "60 г",
+            "fat_content": "",
+            "storage_conditions": "+2/+6⁰С",
+            "expiry": "60 суток",
+            "pack": "Флоу-пак",
+            "protein": "8,0 г",
+            "fats": "15,0 г",
+            "carbs": "60,0 г",
+            "calories": "1704 кДж (407 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/sufle-i-trubochki/#0"
+    },
+    {
+        "category": "Трубочки, орешки и суфле",
+        "name": "Суфле молочное с молоком сгущённым варёным глазированное кондитерской глазурью",
+        "product_description": {
+            "weight": "40 г",
+            "fat_content": "14,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "45 суток",
+            "pack": "Флоу-пак",
+            "protein": "2,6 г",
+            "fats": "17,0 г",
+            "carbs": "36,0 г",
+            "calories": "1290 кДж (310 ккал)"
+        },
+        "composition": "Патока ",
+        "link": "https://svitlogorie.ru/product/sufle-i-trubochki/#1"
+    },
+    {
+        "category": "Трубочки, орешки и суфле",
+        "name": "Суфле молочное со вкусом ванили глазированное кондитерской глазурью",
+        "product_description": {
+            "weight": "40 г",
+            "fat_content": "14,5%",
+            "storage_conditions": "+2~+6 /-18ºС",
+            "expiry": "45 суток",
+            "pack": "Флоу-пак",
+            "protein": "2,6 г",
+            "fats": "17,0 г",
+            "carbs": "36,0 г",
+            "calories": "1290 кДж (310 ккал)"
+        },
+        "composition": "Патока ",
+        "link": "https://svitlogorie.ru/product/sufle-i-trubochki/#2"
+    },
+    {
+        "category": "Трубочки, орешки и суфле",
+        "name": "Молоко сгущенное с сахаром вареное в вафельной трубочке",
+        "product_description": {
+            "weight": "70 г",
+            "fat_content": "8,5%",
+            "storage_conditions": "+2/+6",
+            "expiry": "60 суток",
+            "pack": "Флоу-пак",
+            "protein": "10,1 г",
+            "fats": "14,9 г",
+            "carbs": "57,6 г",
+            "calories": "1702 кДж (405 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/sufle-i-trubochki/#3"
+    },
+    {
+        "category": "Трубочки, орешки и суфле",
+        "name": "Молоко сгущенное с сахаром в вафельной трубочке",
+        "product_description": {
+            "weight": "65 г",
+            "fat_content": "8,5%",
+            "storage_conditions": "+2/+6",
+            "expiry": "60 суток",
+            "pack": "Флоу-пак",
+            "protein": "7,8 г",
+            "fats": "19,6 г",
+            "carbs": "55,3 г",
+            "calories": "1798 кДж (429 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/sufle-i-trubochki/#4"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Мороженое пломбир с ароматом ванили в вафельном сахарном рожке 70 г",
+        "product_description": {
+            "weight": "70 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,2 г",
+            "fats": "13,2 г",
+            "carbs": "32,6 г",
+            "calories": "1114,0 кДж (266,0 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#0"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Мороженое пломбир «Золотая ириска» в вафельном сахарном рожке",
+        "product_description": {
+            "weight": "110 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,2 г",
+            "fats": "13,0 г",
+            "carbs": "33,8 г",
+            "calories": "1127,0 кДж (269,0 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#1"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Мороженое пломбир двухслойное в вафельном сахарном рожке",
+        "product_description": {
+            "weight": "110 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,3 г",
+            "fats": "13,0 г",
+            "carbs": "33,6 г",
+            "calories": "1125,0 кДж (269,0 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#2"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Мороженое пломбир с ароматом ванили в вафельном сахарном рожке",
+        "product_description": {
+            "weight": "110 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,2 г",
+            "fats": "13,0 г",
+            "carbs": "34,0 г",
+            "calories": "1130,0 кДж (270,0 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#3"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир Свитлогорье двухслойный в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,9 г",
+            "fats": "14,4 г",
+            "carbs": "25,2 г",
+            "calories": "1027 кДж (246 ккал)"
+        },
+        "composition": "A ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#4"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир Свитлогорье двухслойный \"Золотая ириска\" в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,7 г",
+            "fats": "14,4 г",
+            "carbs": "24,2 г",
+            "calories": "1008 кДж (241 ккал)"
+        },
+        "composition": "A ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#5"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Мороженое Свитлогорье «Два Шербета»",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "1%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Картонный стаканчик",
+            "protein": "2,4 г",
+            "fats": "1,0 г",
+            "carbs": "24,6 г",
+            "calories": "496 кДж (117 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#6"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье с ванилью в глазури",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,3 г",
+            "fats": "25,0 г",
+            "carbs": "20,4 г",
+            "calories": "1328 кДж (320 ккал)"
+        },
+        "composition": "A ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#7"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье двухслойное в глазури",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,5 г",
+            "fats": "25,0 г",
+            "carbs": "20,5 г",
+            "calories": "1333 кДж (321 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#8"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье с арахисом в карамельной глазури",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "-18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,6 г",
+            "fats": "23,8 г",
+            "carbs": "27,3 г",
+            "calories": "1423,0 кДж (342,0 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#9"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Фрумелье с арахисом в карамельной глазури",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "-18ºС",
+            "expiry": "180 суток",
+            "pack": "Флоу-пак",
+            "protein": "4,6 г",
+            "fats": "23,8 г",
+            "carbs": "27,3 г",
+            "calories": "1423,0 кДж (342,0  ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#10"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье \"Фрумелье\" с манго в молочном шоколаде",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,6 г",
+            "fats": "17,1 г",
+            "carbs": "29,0 г",
+            "calories": "1187 кДж (284 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#11"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье \"Фрумелье\" с бананом в молочном шоколаде",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,6 г",
+            "fats": "17,1 г",
+            "carbs": "29,2 г",
+            "calories": "1190 кДж (285 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#12"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо Свитлогорье \"Фрумелье\" c клубникой в молочном шоколаде",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,6 г",
+            "fats": "17,1 г",
+            "carbs": "28,8 г",
+            "calories": "1183 кДж (283 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#13"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо \"Фрумелье Золотая ириска\" в карамельной глазури",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,3 г",
+            "fats": "22,6 г",
+            "carbs": "28,4 г",
+            "calories": "1375 кДж (330 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#14"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо пломбир с ванилью в клубничной желейной оболочке",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "2,3 г",
+            "fats": "9,9 г",
+            "carbs": "20,4 г",
+            "calories": "752 кДж (180 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#15"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо пломбир с ванилью в банановой желейной оболочке",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "2,3 г",
+            "fats": "9,9 г",
+            "carbs": "20,6 г",
+            "calories": "756 кДж (181 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#16"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо пломбир с ванилью в манговой желейной оболочке",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "2,3 г",
+            "fats": "9,9 г",
+            "carbs": "20,3 г",
+            "calories": "751 кДж (180 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#17"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир «Трубочка»",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "-18°C",
+            "expiry": "12 месяцев",
+            "pack": "Фольга",
+            "protein": "3,3 г",
+            "fats": "21,9 г",
+            "carbs": "20,2 г",
+            "calories": "1219 кДж (291 ккал)"
+        },
+        "composition": "Пломбир ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#18"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир Свитлогорье «Трубочка» шоколадный",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "12 месяцев",
+            "pack": "Фольга",
+            "protein": "3,3 г",
+            "fats": "29,6 г",
+            "carbs": "21,8 г",
+            "calories": "1522 кДж (367 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#19"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир Свитлогорье «Трубочка» ванильный с шоколадом",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "12 месяцев",
+            "pack": "Фольга",
+            "protein": "3,4 г",
+            "fats": "25,0 г",
+            "carbs": "20,1 г",
+            "calories": "1325 кДж (319 ккал)"
+        },
+        "composition": "Пломбир ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#20"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир Свитлогорье «Трубочка» «Золотая ириска»",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "12 месяцев",
+            "pack": "Фольга",
+            "protein": "2,9 г",
+            "fats": "32,4 г",
+            "carbs": "19,6 г",
+            "calories": "1581 кДж (382 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#21"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Эскимо пломбир с ароматом ванили \"Золотая ириска\"",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,5 г",
+            "fats": "23,1 г",
+            "carbs": "22,4 г",
+            "calories": "1295 кДж (311 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#22"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир с ванилью в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,3 г",
+            "fats": "25,0 г",
+            "carbs": "20,4 г",
+            "calories": "1328 кДж (320 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#23"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир с ванилью и пломбир шоколадный в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,4 г",
+            "fats": "25,0 г",
+            "carbs": "20,5 г",
+            "calories": "1331 кДж (321 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#24"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир крем-брюле в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,3 г",
+            "fats": "25,0 г",
+            "carbs": "20,4 г",
+            "calories": "1328 кДж (320 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#25"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир шоколадный в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,6 г",
+            "fats": "25,0 г",
+            "carbs": "20,6 г",
+            "calories": "1336 кДж (322 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#26"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир с ванилью в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Флоу-пак",
+            "protein": "4,2 г",
+            "fats": "14,5 г",
+            "carbs": "22,7 г",
+            "calories": "995,5 кДж (238,5 ккал)"
+        },
+        "composition": "Сливки ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#27"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир крем-брюле в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,8 г",
+            "fats": "14,4 г",
+            "carbs": "22,6 г",
+            "calories": "982 кДж (235 ккал)"
+        },
+        "composition": "A ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#28"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир шоколадный в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "4,1 г",
+            "fats": "14,4 г",
+            "carbs": "23,6 г",
+            "calories": "988 кДж (237 ккал)"
+        },
+        "composition": "A ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#29"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир с ванилью в жировой какаосодержащей глазури в вафельном стаканчике",
+        "product_description": {
+            "weight": "105 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Флоу-пак",
+            "protein": "4.2 г",
+            "fats": "17,0 г",
+            "carbs": "23,4 г",
+            "calories": "1098,2 кДж (263,4 ккал)"
+        },
+        "composition": "Сливки ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#30"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир с ванилью в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "3,3 г",
+            "fats": "25,0 г",
+            "carbs": "20,4 г",
+            "calories": "1328 кДж (320 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#31"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир крем-брюле в сливочной какаосодержащей глазури эскимо",
+        "product_description": {
+            "weight": "80 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "18 месяцев",
+            "pack": "",
+            "protein": 0,
+            "fats": 0,
+            "carbs": 0,
+            "calories": 0
+        },
+        "composition": "N\\A",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#32"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир крем-брюле в брикете на вафлях",
+        "product_description": {
+            "weight": "90 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Фольга",
+            "protein": "4,0 г",
+            "fats": "14,4 г",
+            "carbs": "22,7 г",
+            "calories": "986,7 кДж (236,4 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#33"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Пломбир ванильный в брикете на вафлях",
+        "product_description": {
+            "weight": "90 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Фольга",
+            "protein": "4,0 г",
+            "fats": "14,4 г",
+            "carbs": "22,7 г",
+            "calories": "986,7 кДж (236,4 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#34"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Фруктовый лёд Свитлогорье клубника",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "1,5 года",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "28,9 г",
+            "calories": "491 кДж (116 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#35"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Фруктовый лёд Свитлогорье яблоко",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "1,5 года",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "28,9 г",
+            "calories": "491 кДж (116 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#36"
+    },
+    {
+        "category": "Мороженое порционное",
+        "name": "Фруктовый лёд Свитлогорье манго",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18 °С",
+            "expiry": "1,5 года",
+            "pack": "Флоу-пак",
+            "protein": 0,
+            "fats": 0,
+            "carbs": "28,9 г",
+            "calories": "491,0 кДж (116 ккал)"
+        },
+        "composition": "Вода ",
+        "link": "https://svitlogorie.ru/product/morozhennoe-portsionnoe/#37"
+    },
+    {
+        "category": "Мороженое семейное",
+        "name": "Пломбир семейный \"Золотая ириска\"",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "24 месяца",
+            "pack": "Контейнер",
+            "protein": "3,3 г",
+            "fats": "23,1 г",
+            "carbs": "23,1 г",
+            "calories": "1303 кДж (313 ккал)"
+        },
+        "composition": "А ",
+        "link": "https://svitlogorie.ru/product/morozhenoe-semejnoe/#0"
+    },
+    {
+        "category": "Мороженое семейное",
+        "name": "Пломбир с ванилью и пломбир шоколадный",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Контейнер",
+            "protein": "3,4 г",
+            "fats": "15 г",
+            "carbs": "19,1 г",
+            "calories": "937,5 кДж (225 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhenoe-semejnoe/#1"
+    },
+    {
+        "category": "Мороженое семейное",
+        "name": "Пломбир с ванилью",
+        "product_description": {
+            "weight": "500 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Контейнер",
+            "protein": "3,7 г",
+            "fats": "15 г",
+            "carbs": "19,8 г",
+            "calories": "950 кДж (230 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhenoe-semejnoe/#2"
+    },
+    {
+        "category": "Мороженое семейное",
+        "name": "Пломбир с ароматом ванили «Семейное»",
+        "product_description": {
+            "weight": "230 г",
+            "fat_content": "15%",
+            "storage_conditions": "от -18ºС",
+            "expiry": "365 суток",
+            "pack": "Брикет",
+            "protein": "3,7 г",
+            "fats": "15,0 г",
+            "carbs": "19,8 г",
+            "calories": "950 кДж (230 ккал)"
+        },
+        "composition": "Молоко ",
+        "link": "https://svitlogorie.ru/product/morozhenoe-semejnoe/#3"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные с отрубями",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "12 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "10,3 г",
+            "fats": "1,8 г",
+            "carbs": "68,1 г",
+            "calories": "1382 кДж (330 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#0"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные с луком",
+        "product_description": {
+            "weight": "55 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "12 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "10,8 г",
+            "fats": "1,7 г",
+            "carbs": "72,4 г",
+            "calories": "1457 кДж (348 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#1"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные с начинкой молочной",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "6 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "6,4 г",
+            "fats": "15,1 г",
+            "carbs": "64,3 г",
+            "calories": "1761 кДж (419 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#2"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные с начинкой шоколадной",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "6 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "7,1 г",
+            "fats": "15,8 г",
+            "carbs": "61,6 г",
+            "calories": "1753 кДж (417 ккал)"
+        },
+        "composition": "Сахарная ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#3"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные со вкусом шоколада и трюфеля",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "6 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "7,1 г",
+            "fats": "15,6 г",
+            "carbs": "62 г",
+            "calories": "1752 кДж (417 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#4"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные со вкусом карамели и тирамису",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "6 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "7,2 г",
+            "fats": "15,3 г",
+            "carbs": "62,6 г",
+            "calories": "1753 кДж (417 ккал)"
+        },
+        "composition": "Сахарная ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#5"
+    },
+    {
+        "category": "Хлебцы экструзионные",
+        "name": "Хлебцы экструзионные со вкусом кофе с пломбиром",
+        "product_description": {
+            "weight": "100 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 20ºС",
+            "expiry": "6 месяцев",
+            "pack": "Флоу-пак",
+            "protein": "6,3 г",
+            "fats": "15,0 г",
+            "carbs": "64,5 г",
+            "calories": "1759 кДж (418 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/hlebtsy-ekstruzionnye/#6"
+    },
+    {
+        "category": "Сушки",
+        "name": "Сушки с маком",
+        "product_description": {
+            "weight": "200 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 25ºС",
+            "expiry": "4 месяца",
+            "pack": "Флоу-пак",
+            "protein": "11,1 г",
+            "fats": "3,0 г",
+            "carbs": "76,5 г",
+            "calories": "1603 кДж (378 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/sushki/#0"
+    },
+    {
+        "category": "Сушки",
+        "name": "Сушки горчичные",
+        "product_description": {
+            "weight": "200 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 25ºС",
+            "expiry": "4 месяца",
+            "pack": "Флоу-пак",
+            "protein": "10,7 г",
+            "fats": "4,5 г",
+            "carbs": "74,7 г",
+            "calories": "1618 кДж (382 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/sushki/#1"
+    },
+    {
+        "category": "Сушки",
+        "name": "Сушки с ароматом ванили",
+        "product_description": {
+            "weight": "200 г",
+            "fat_content": "",
+            "storage_conditions": "не выше 25ºС",
+            "expiry": "4 месяца",
+            "pack": "Флоу-пак",
+            "protein": "10,4 г",
+            "fats": "2,9 г",
+            "carbs": "78,3 г",
+            "calories": "1615 кДж (381 ккал)"
+        },
+        "composition": "Мука ",
+        "link": "https://svitlogorie.ru/product/sushki/#2"
+    }
+]
